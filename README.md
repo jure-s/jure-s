@@ -1,5 +1,9 @@
 ### Hey there, I'm Igor! 👋
 
+My stack and tools :
+
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red"/>
+
 <!--
 **jure-s/jure-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
