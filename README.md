@@ -1,6 +1,15 @@
-### Hey there, I'm Igor! 👋
+<div id="header" align="center">
 
-My stack and tools :
+<img src="./assets/github.gif" width="100"/>
+
+<h1>
+Hey there, I'm Igor! 👋
+<img src="./assets/giphy.gif" width="30px" alt="GIF">
+</h1>
+
+</div>
+
+### My stack and tools :
 
 <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red"/>
 
