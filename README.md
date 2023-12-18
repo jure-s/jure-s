@@ -13,7 +13,7 @@ I am currently pursuing a Master's degree in Computer Science: Software Engineer
 My project experience includes team and individual projects, where I have worked with technologies such as HTML5, CSS3, JavaScript. <br>
 
 🌐 **Languages** :
-Ukrainian - native | English - pre-intermediate
+Ukrainian - native | Russian - native | English - pre-intermediate
 
 ### My stack and tools :
 
